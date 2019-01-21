@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a20bb99d/
+defs10	archlinux_logo.svg	/^     id="defs10">$/;"	i
+feComposite1504	archlinux_logo.svg	/^         id="feComposite1504" \/>$/;"	i
+feComposite1510	archlinux_logo.svg	/^         id="feComposite1510" \/>$/;"	i
+feFlood1502	archlinux_logo.svg	/^         id="feFlood1502" \/>$/;"	i
+feGaussianBlur1506	archlinux_logo.svg	/^         id="feGaussianBlur1506" \/>$/;"	i
+feOffset1508	archlinux_logo.svg	/^         id="feOffset1508" \/>$/;"	i
+filter1512	archlinux_logo.svg	/^       id="filter1512">$/;"	i
+g4	archlinux_logo.svg	/^     style="fill:url(#linearGradient1520);stroke:#1109ff;stroke-opacity:1;stroke-width:0.5;strok/;"	i
+layer1	archlinux_logo.svg	/^     style="display:inline">$/;"	i
+linearGradient1518	archlinux_logo.svg	/^       id="linearGradient1518">$/;"	i
+linearGradient1520	archlinux_logo.svg	/^       gradientUnits="userSpaceOnUse" \/>$/;"	i
+metadata12	archlinux_logo.svg	/^     id="metadata12">$/;"	i
+namedview8	archlinux_logo.svg	/^     showborder="false" \/>$/;"	i
+path2	archlinux_logo.svg	/^       style="fill:url(#linearGradient1520);stroke:#1109ff;stroke-opacity:1;stroke-width:0.5;str/;"	i
+rect832	archlinux_logo.svg	/^     y="-44.474579" \/>$/;"	i
+stop1514	archlinux_logo.svg	/^         id="stop1514" \/>$/;"	i
+stop1516	archlinux_logo.svg	/^         id="stop1516" \/>$/;"	i
+text836	archlinux_logo.svg	/^       inkscape:export-ydpi="300"><tspan$/;"	i
+tspan834	archlinux_logo.svg	/^         y="137.22034">bitshift.net.au<\/tspan><\/text>$/;"	i

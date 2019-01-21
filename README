@@ -1,0 +1,25 @@
+## LICENSE
+
+The logos found in the rEFInd folder are released under creative commons. 
+
+The Arch Linux logo is subject to trademark policy, details can be found at this address: 
+https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy
+
+Please respect these works and their intended purpose. 
+
+## Instructions for installation of logos with rEFInd
+
+Simply create a folder titled 'custom_icons' in the folder where refind.conf resides and place these icons there. DO NOT RENAME!!!
+
+Then, modify your refind.conf under the 'icons_dir' option and point to this folder. This is a relative path, simply naming the folder 
+will suffice if your refind.conf is in the same directory. 
+
+For a more detailed instruction please see the theming section of the rEFInd boot manager manual, at this address:
+https://www.rodsbooks.com/refind/themes.html
+
+## .svg files
+
+If you would like the .svg file for the icons, please don't hesitate to ask.  
+
+Happy Coding!!!
+

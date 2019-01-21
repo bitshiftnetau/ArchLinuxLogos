@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256px"
+   height="256px"
+   viewBox="0 0 256 256"
+   version="1.1"
+   preserveAspectRatio="xMidYMid"
+   id="svg6"
+   sodipodi:docname="archlinux_logo.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:export-filename="/home/access/Graphics/BITSHIFT_FINAL_VERSIONS/archlinux_logo-watermark.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1518">
+      <stop
+         style="stop-color:#140c13;stop-opacity:1"
+         offset="0"
+         id="stop1514" />
+      <stop
+         style="stop-color:#5f1aff;stop-opacity:0.02745098"
+         offset="1"
+         id="stop1516" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1512">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(116,18,117)"
+         result="flood"
+         id="feFlood1502" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1504" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3.5"
+         result="blur"
+         id="feGaussianBlur1506" />
+      <feOffset
+         dx="0"
+         dy="6"
+         result="offset"
+         id="feOffset1508" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1510" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1518"
+       id="linearGradient1520"
+       x1="130.71187"
+       y1="176.81357"
+       x2="65.60305"
+       y2="-49.35593"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="120.37115"
+     inkscape:cy="136.33774"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="false" />
+  <rect
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect832"
+     width="399.72882"
+     height="355.7966"
+     x="-71.593231"
+     y="-44.474579" />
+  <g
+     id="g4"
+     style="fill:url(#linearGradient1520);stroke:#1109ff;stroke-opacity:1;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;filter:url(#filter1512)">
+    <path
+       d="M127.975926,0 C116.579432,27.9359185 109.705619,46.2092913 97.0171149,73.31478 C104.796757,81.5596475 114.3459,91.1612076 129.853677,102.005265 C113.181296,95.1459732 101.808692,88.2594065 93.3097611,81.1132005 C77.0708968,114.991716 51.6292657,163.250154 0,256 C40.5788694,232.577519 72.0348875,218.137309 101.350386,212.627303 C100.091566,207.21416 99.3758778,201.35879 99.4244875,195.249342 L99.4726349,193.949605 C100.116527,167.956688 113.640566,147.968131 129.661087,149.32531 C145.681616,150.68249 158.134196,172.866789 157.490314,198.859722 C157.369214,203.750768 156.817421,208.4559 155.853301,212.819857 C184.850516,218.491161 215.970178,232.894401 256,256 C248.106899,241.470984 241.061625,228.374136 234.333647,215.900715 C223.735984,207.688365 212.6821,196.999962 190.134286,185.429109 C205.632358,189.455404 216.728781,194.100675 225.378221,199.292967 C156.972972,71.9582954 151.433611,55.0381461 127.975926,0 Z"
+       fill="#1793D1"
+       id="path2"
+       style="fill:url(#linearGradient1520);stroke:#1109ff;stroke-opacity:1;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="watermark"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Adobe Courier';-inkscape-font-specification:'Adobe Courier, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#484848;fill-opacity:0.13963964;stroke:none"
+       x="123.11864"
+       y="137.22034"
+       id="text836"
+       inkscape:export-filename="/home/access/Graphics/BITSHIFT_FINAL_VERSIONS/archlinux_logo-watermark.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan834"
+         x="123.11864"
+         y="137.22034">bitshift.net.au</tspan></text>
+  </g>
+</svg>
